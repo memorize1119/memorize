@@ -1,0 +1,2 @@
+# memorize
+java C
